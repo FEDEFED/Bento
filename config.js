@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Oveleaf',
+			icon: 'leaf',
+			link: 'https://www.overleaf.com/project',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Codecogs',
+			icon: 'pi-square',
+			link: 'https://latex.codecogs.com/eqneditor/editor.php',
 		},
 		{
 			id: '5',
